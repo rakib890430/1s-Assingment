@@ -27,3 +27,14 @@ section{
     padding: 20px 40px;
     border-radius: 35px;
 }
+.about-me{
+    background-image: url(p2back-img.png);
+    background-repeat: no-repeat;
+}
+.middel-p{
+    text-align: center;
+}
+.recipe-item{
+    display: flex;
+    
+}
